@@ -1,0 +1,23 @@
+{
+  "name": "awsnodetests",
+  "version": "1.0.0",
+  "description": "node testing on aws",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyashkelvinsavant/awsnodetests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suyashkelvinsavant/awsnodetests/issues"
+  },
+  "homepage": "https://github.com/suyashkelvinsavant/awsnodetests#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
